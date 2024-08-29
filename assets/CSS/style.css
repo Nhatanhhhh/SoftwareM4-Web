@@ -242,6 +242,7 @@
 .section-two .inner-wrap .inner-image img {
     width: 100%;
     height: auto;
+    border-radius: 8px;
 }
 
 .section-two .inner-wrap .inner-content {
