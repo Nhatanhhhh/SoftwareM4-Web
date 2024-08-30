@@ -164,6 +164,7 @@
     display: inline-block;
     border-radius: 4px;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 
 .button-two {
