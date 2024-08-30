@@ -43,6 +43,7 @@
     display: inline-block;
     padding: 35px 20px;
     font-size: 18px;
+    transition: all 0.3s ease 0s;
 }
 
 .header .inner-menu ul li a:hover {
